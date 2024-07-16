@@ -1,6 +1,6 @@
 
 
-<p align = "center"> **JJK is My Motivation.**
+<p align = "center"> **JJK was My Motivation.**
   <p align="center">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/gif-2.gif" />
   </p>
@@ -11,7 +11,7 @@
 
 <!--- 👯 I’m looking to collaborate on -->
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: she/her
 
 - ⚡ Fun fact: Did you know that the first computer virus was created in 1983 by a 15-year-old?
 <!--
@@ -41,13 +41,4 @@ comment syntax
 <H3> Find me Here: </H3>
 
 <a href="https://www.linkedin.com/in/kk36/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
- 
- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
